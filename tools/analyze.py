@@ -394,7 +394,7 @@ def write_md(path, d):
     for i in range(0, len(row), 64):
         L.append(f"bar {i:>3}  {row[i:i + 64]}")
     L += ["```", "", "Loud bars are the moments to spend your biggest visuals on. Hits (`hit(t, 'low')`) follow the actual kick drum;",
-          "`pulse(t)` follows the beat grid. See MUSIC_VIDEO_GUIDE.md.", ""]
+          "`pulse(t)` follows the beat grid. See docs/PIPELINE.md.", ""]
     path.write_text("\n".join(L))
 
 

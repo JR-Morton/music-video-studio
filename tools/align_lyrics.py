@@ -11,7 +11,7 @@ Whisper transcribes the song with a time for every word. Sung words are often mi
 the lyrics: the lyrics you give are aligned to it word by word (a fuzzy sequence alignment that tolerates mishearings,
 missed words and ad-libs), and each lyric word takes the time of the transcript word it matches. Words with no match are
 placed between their neighbours. Writes videos/<slug>/lyrics.lrc (enhanced LRC, a time per word) and imports it into
-lyrics.js. Lines with few matched words are listed at the end: check those by ear (studio.html + the karaoke bar).
+lyrics.js. Lines with few matched words are listed at the end: check those by ear in the live preview (bunx vite in gl/app).
 
 Lyrics text: one line per lyric line. Blank lines and section tags like [Chorus] or (Verse 2) are ignored.
 Accuracy improves a lot on an isolated vocal stem: pass it with --audio=vocals.wav if you have one.

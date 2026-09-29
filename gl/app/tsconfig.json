@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "lib": ["ESNext", "DOM", "DOM.Iterable"],
+    "target": "ESNext",
+    "module": "ESNext",
+    "moduleDetection": "force",
+    "moduleResolution": "bundler",
+    "allowImportingTsExtensions": true,
+    "verbatimModuleSyntax": false,
+    "noEmit": true,
+    "strict": true,
+    "skipLibCheck": true,
+    "noFallthroughCasesInSwitch": true,
+    "noImplicitOverride": true,
+    "types": ["vite/client"],
+    "paths": { "@engine/*": ["./src/engine/*"], "@video/*": ["../../videos/end-of-the-decade/gl/*"], "three": ["./node_modules/@types/three"], "three/*": ["./node_modules/@types/three/*"], "opentype.js": ["./node_modules/@types/opentype.js"] }
+  },
+  "include": ["src", "../../videos/*/gl/**/*.ts"]
+}

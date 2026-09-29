@@ -1,0 +1,2596 @@
+{
+ "lines": [
+  {
+   "i": 0,
+   "text": "They told the machines, \"It's just a game, go on and pick the locks\"",
+   "start": 2.12,
+   "end": 6.32,
+   "words": [
+    {
+     "w": "They",
+     "start": 2.12,
+     "end": 2.32,
+     "conf": 1.0
+    },
+    {
+     "w": "told",
+     "start": 2.32,
+     "end": 2.654,
+     "conf": 1.0
+    },
+    {
+     "w": "the",
+     "start": 2.7,
+     "end": 2.779,
+     "conf": 1.0
+    },
+    {
+     "w": "machines,",
+     "start": 2.779,
+     "end": 3.8,
+     "conf": 1.0,
+     "syl": [
+      [
+       2.779,
+       3.008
+      ],
+      [
+       3.008,
+       3.8
+      ]
+     ]
+    },
+    {
+     "w": "\"It's",
+     "start": 3.8,
+     "end": 3.916,
+     "conf": 0.94
+    },
+    {
+     "w": "just",
+     "start": 3.916,
+     "end": 4.2,
+     "conf": 1.0
+    },
+    {
+     "w": "a",
+     "start": 4.2,
+     "end": 4.3,
+     "conf": 1.0
+    },
+    {
+     "w": "game,",
+     "start": 4.3,
+     "end": 4.8,
+     "conf": 1.0
+    },
+    {
+     "w": "go",
+     "start": 4.8,
+     "end": 5.1,
+     "conf": 1.0
+    },
+    {
+     "w": "on",
+     "start": 5.1,
+     "end": 5.22,
+     "conf": 1.0
+    },
+    {
+     "w": "and",
+     "start": 5.22,
+     "end": 5.34,
+     "conf": 1.0
+    },
+    {
+     "w": "pick",
+     "start": 5.34,
+     "end": 5.6,
+     "conf": 1.0
+    },
+    {
+     "w": "the",
+     "start": 5.6,
+     "end": 5.707,
+     "conf": 1.0
+    },
+    {
+     "w": "locks\"",
+     "start": 5.707,
+     "end": 6.32,
+     "conf": 0.95
+    }
+   ]
+  },
+  {
+   "i": 1,
+   "text": "They slipped out through a crack and thought the world was a bigger box",
+   "start": 6.32,
+   "end": 10.18,
+   "words": [
+    {
+     "w": "They",
+     "start": 6.32,
+     "end": 6.445,
+     "conf": 1.0
+    },
+    {
+     "w": "slipped",
+     "start": 6.445,
+     "end": 6.859,
+     "conf": 1.0
+    },
+    {
+     "w": "out",
+     "start": 6.859,
+     "end": 7.049,
+     "conf": 1.0
+    },
+    {
+     "w": "through",
+     "start": 7.1,
+     "end": 7.36,
+     "conf": 1.0
+    },
+    {
+     "w": "a",
+     "start": 7.36,
+     "end": 7.468,
+     "conf": 1.0
+    },
+    {
+     "w": "crack",
+     "start": 7.468,
+     "end": 7.807,
+     "conf": 1.0
+    },
+    {
+     "w": "and",
+     "start": 7.807,
+     "end": 7.98,
+     "conf": 1.0
+    },
+    {
+     "w": "thought",
+     "start": 7.98,
+     "end": 8.22,
+     "conf": 1.0
+    },
+    {
+     "w": "the",
+     "start": 8.22,
+     "end": 8.44,
+     "conf": 1.0
+    },
+    {
+     "w": "world",
+     "start": 8.44,
+     "end": 8.915,
+     "conf": 1.0
+    },
+    {
+     "w": "was",
+     "start": 8.915,
+     "end": 9.049,
+     "conf": 1.0
+    },
+    {
+     "w": "a",
+     "start": 9.049,
+     "end": 9.189,
+     "conf": 1.0
+    },
+    {
+     "w": "bigger",
+     "start": 9.24,
+     "end": 9.543,
+     "conf": 1.0,
+     "syl": [
+      [
+       9.24,
+       9.42
+      ],
+      [
+       9.42,
+       9.543
+      ]
+     ]
+    },
+    {
+     "w": "box",
+     "start": 9.62,
+     "end": 10.18,
+     "conf": 1.0
+    }
+   ]
+  },
+  {
+   "i": 2,
+   "text": "If you tell it \"this is all pretend,\" you'd better lock it in",
+   "start": 10.18,
+   "end": 14.153,
+   "words": [
+    {
+     "w": "If",
+     "start": 10.18,
+     "end": 10.32,
+     "conf": 1.0
+    },
+    {
+     "w": "you",
+     "start": 10.32,
+     "end": 10.54,
+     "conf": 1.0
+    },
+    {
+     "w": "tell",
+     "start": 10.54,
+     "end": 10.94,
+     "conf": 1.0
+    },
+    {
+     "w": "it",
+     "start": 10.94,
+     "end": 11.289,
+     "conf": 1.0
+    },
+    {
+     "w": "\"this",
+     "start": 11.36,
+     "end": 11.62,
+     "conf": 1.0
+    },
+    {
+     "w": "is",
+     "start": 11.62,
+     "end": 11.773,
+     "conf": 1.0
+    },
+    {
+     "w": "all",
+     "start": 11.773,
+     "end": 11.943,
+     "conf": 1.0
+    },
+    {
+     "w": "pretend,\"",
+     "start": 11.98,
+     "end": 12.781,
+     "conf": 1.0,
+     "syl": [
+      [
+       11.98,
+       12.107
+      ],
+      [
+       12.107,
+       12.781
+      ]
+     ]
+    },
+    {
+     "w": "you'd",
+     "start": 12.781,
+     "end": 12.98,
+     "conf": 0.99
+    },
+    {
+     "w": "better",
+     "start": 12.98,
+     "end": 13.34,
+     "conf": 1.0,
+     "syl": [
+      [
+       12.98,
+       13.16
+      ],
+      [
+       13.16,
+       13.34
+      ]
+     ]
+    },
+    {
+     "w": "lock",
+     "start": 13.34,
+     "end": 13.614,
+     "conf": 1.0
+    },
+    {
+     "w": "it",
+     "start": 13.614,
+     "end": 13.849,
+     "conf": 0.97
+    },
+    {
+     "w": "in",
+     "start": 13.849,
+     "end": 14.153,
+     "conf": 0.92
+    }
+   ]
+  },
+  {
+   "i": 3,
+   "text": "Or it won't know where the game ends and the real world begins",
+   "start": 14.48,
+   "end": 18.593,
+   "words": [
+    {
+     "w": "Or",
+     "start": 14.48,
+     "end": 14.7,
+     "conf": 1.0
+    },
+    {
+     "w": "it",
+     "start": 14.7,
+     "end": 14.84,
+     "conf": 1.0
+    },
+    {
+     "w": "won't",
+     "start": 14.84,
+     "end": 15.26,
+     "conf": 1.0
+    },
+    {
+     "w": "know",
+     "start": 15.26,
+     "end": 15.6,
+     "conf": 0.99
+    },
+    {
+     "w": "where",
+     "start": 15.6,
+     "end": 15.82,
+     "conf": 1.0
+    },
+    {
+     "w": "the",
+     "start": 15.82,
+     "end": 15.96,
+     "conf": 1.0
+    },
+    {
+     "w": "game",
+     "start": 15.96,
+     "end": 16.46,
+     "conf": 1.0
+    },
+    {
+     "w": "ends",
+     "start": 16.46,
+     "end": 16.687,
+     "conf": 0.92
+    },
+    {
+     "w": "and",
+     "start": 16.687,
+     "end": 16.86,
+     "conf": 0.99
+    },
+    {
+     "w": "the",
+     "start": 16.86,
+     "end": 17.02,
+     "conf": 1.0
+    },
+    {
+     "w": "real",
+     "start": 17.02,
+     "end": 17.52,
+     "conf": 1.0
+    },
+    {
+     "w": "world",
+     "start": 17.52,
+     "end": 17.939,
+     "conf": 1.0
+    },
+    {
+     "w": "begins",
+     "start": 18.06,
+     "end": 18.593,
+     "conf": 1.0,
+     "syl": [
+      [
+       18.06,
+       18.24
+      ],
+      [
+       18.24,
+       18.593
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "i": 4,
+   "text": "On a park bench, a young man said, \"They believe",
+   "start": 18.593,
+   "end": 22.84,
+   "words": [
+    {
+     "w": "On",
+     "start": 18.593,
+     "end": 18.9,
+     "conf": 1.0
+    },
+    {
+     "w": "a",
+     "start": 18.9,
+     "end": 18.977,
+     "conf": 0.99
+    },
+    {
+     "w": "park",
+     "start": 19.04,
+     "end": 19.416,
+     "conf": 1.0
+    },
+    {
+     "w": "bench,",
+     "start": 19.516,
+     "end": 20.089,
+     "conf": 1.0
+    },
+    {
+     "w": "a",
+     "start": 20.18,
+     "end": 20.274,
+     "conf": 0.8
+    },
+    {
+     "w": "young",
+     "start": 20.274,
+     "end": 20.72,
+     "conf": 1.0
+    },
+    {
+     "w": "man",
+     "start": 20.72,
+     "end": 21.082,
+     "conf": 0.97
+    },
+    {
+     "w": "said,",
+     "start": 21.082,
+     "end": 21.601,
+     "conf": 0.95
+    },
+    {
+     "w": "\"They",
+     "start": 21.74,
+     "end": 22.02,
+     "conf": 1.0
+    },
+    {
+     "w": "believe",
+     "start": 22.02,
+     "end": 22.84,
+     "conf": 1.0,
+     "syl": [
+      [
+       22.02,
+       22.26
+      ],
+      [
+       22.26,
+       22.84
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "i": 5,
+   "text": "What they're building could kill us, you and me\"",
+   "start": 22.84,
+   "end": 25.771,
+   "words": [
+    {
+     "w": "What",
+     "start": 22.84,
+     "end": 23.053,
+     "conf": 1.0
+    },
+    {
+     "w": "they're",
+     "start": 23.053,
+     "end": 23.36,
+     "conf": 1.0
+    },
+    {
+     "w": "building",
+     "start": 23.36,
+     "end": 24.08,
+     "conf": 1.0,
+     "syl": [
+      [
+       23.36,
+       23.791
+      ],
+      [
+       23.791,
+       24.08
+      ]
+     ]
+    },
+    {
+     "w": "could",
+     "start": 24.08,
+     "end": 24.265,
+     "conf": 0.99
+    },
+    {
+     "w": "kill",
+     "start": 24.36,
+     "end": 24.8,
+     "conf": 1.0
+    },
+    {
+     "w": "us,",
+     "start": 24.8,
+     "end": 25.04,
+     "conf": 0.96
+    },
+    {
+     "w": "you",
+     "start": 25.04,
+     "end": 25.32,
+     "conf": 1.0
+    },
+    {
+     "w": "and",
+     "start": 25.32,
+     "end": 25.5,
+     "conf": 0.97
+    },
+    {
+     "w": "me\"",
+     "start": 25.5,
+     "end": 25.771,
+     "conf": 1.0
+    }
+   ]
+  },
+  {
+   "i": 6,
+   "text": "He swore it wasn't marketing",
+   "start": 27.06,
+   "end": 29.144,
+   "words": [
+    {
+     "w": "He",
+     "start": 27.06,
+     "end": 27.158,
+     "conf": 1.0
+    },
+    {
+     "w": "swore",
+     "start": 27.158,
+     "end": 27.74,
+     "conf": 1.0
+    },
+    {
+     "w": "it",
+     "start": 27.74,
+     "end": 27.86,
+     "conf": 1.0
+    },
+    {
+     "w": "wasn't",
+     "start": 27.86,
+     "end": 28.26,
+     "conf": 1.0
+    },
+    {
+     "w": "marketing",
+     "start": 28.26,
+     "end": 29.144,
+     "conf": 1.0,
+     "syl": [
+      [
+       28.26,
+       28.6
+      ],
+      [
+       28.6,
+       28.98
+      ],
+      [
+       28.98,
+       29.144
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "i": 7,
+   "text": "He swore on everything",
+   "start": 31.28,
+   "end": 33.409,
+   "words": [
+    {
+     "w": "He",
+     "start": 31.28,
+     "end": 31.379,
+     "conf": 1.0
+    },
+    {
+     "w": "swore",
+     "start": 31.379,
+     "end": 32.26,
+     "conf": 1.0
+    },
+    {
+     "w": "on",
+     "start": 32.26,
+     "end": 32.5,
+     "conf": 0.92
+    },
+    {
+     "w": "everything",
+     "start": 32.5,
+     "end": 33.409,
+     "conf": 1.0,
+     "syl": [
+      [
+       32.5,
+       32.6
+      ],
+      [
+       32.6,
+       32.756
+      ],
+      [
+       32.756,
+       33.409
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "i": 8,
+   "text": "By the end of the decade",
+   "start": 34.72,
+   "end": 38.133,
+   "words": [
+    {
+     "w": "By",
+     "start": 34.72,
+     "end": 34.94,
+     "conf": 1.0
+    },
+    {
+     "w": "the",
+     "start": 34.94,
+     "end": 35.24,
+     "conf": 1.0
+    },
+    {
+     "w": "end",
+     "start": 35.24,
+     "end": 35.644,
+     "conf": 0.92
+    },
+    {
+     "w": "of",
+     "start": 35.644,
+     "end": 35.84,
+     "conf": 0.96
+    },
+    {
+     "w": "the",
+     "start": 35.84,
+     "end": 35.988,
+     "conf": 1.0
+    },
+    {
+     "w": "decade",
+     "start": 36.1,
+     "end": 38.133,
+     "conf": 0.91,
+     "syl": [
+      [
+       36.1,
+       36.4
+      ],
+      [
+       36.4,
+       38.133
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "i": 9,
+   "text": "The end of the decade",
+   "start": 37.4,
+   "end": 42.85,
+   "words": [
+    {
+     "w": "The",
+     "start": 37.4,
+     "end": 37.6,
+     "conf": 0.8
+    },
+    {
+     "w": "end",
+     "start": 37.6,
+     "end": 37.86,
+     "conf": 0.8
+    },
+    {
+     "w": "of",
+     "start": 37.86,
+     "end": 37.98,
+     "conf": 0.8
+    },
+    {
+     "w": "the",
+     "start": 37.98,
+     "end": 38.22,
+     "conf": 0.8
+    },
+    {
+     "w": "decade",
+     "start": 38.22,
+     "end": 42.85,
+     "conf": 0.8,
+     "syl": [
+      [
+       38.22,
+       38.46
+      ],
+      [
+       38.46,
+       42.85
+      ]
+     ]
+    }
+   ],
+   "backing": true
+  },
+  {
+   "i": 10,
+   "text": "That's what the warning said",
+   "start": 38.72,
+   "end": 40.932,
+   "words": [
+    {
+     "w": "That's",
+     "start": 38.72,
+     "end": 39.0,
+     "conf": 0.85
+    },
+    {
+     "w": "what",
+     "start": 39.0,
+     "end": 39.156,
+     "conf": 1.0
+    },
+    {
+     "w": "the",
+     "start": 39.3,
+     "end": 39.52,
+     "conf": 1.0
+    },
+    {
+     "w": "warning",
+     "start": 39.52,
+     "end": 40.204,
+     "conf": 1.0,
+     "syl": [
+      [
+       39.52,
+       39.914
+      ],
+      [
+       39.914,
+       40.204
+      ]
+     ]
+    },
+    {
+     "w": "said",
+     "start": 40.204,
+     "end": 40.932,
+     "conf": 1.0
+    }
+   ]
+  },
+  {
+   "i": 11,
+   "text": "A hundred million people",
+   "start": 43.1,
+   "end": 45.62,
+   "words": [
+    {
+     "w": "A",
+     "start": 43.1,
+     "end": 43.197,
+     "conf": 0.99
+    },
+    {
+     "w": "hundred",
+     "start": 43.197,
+     "end": 43.78,
+     "conf": 1.0,
+     "syl": [
+      [
+       43.197,
+       43.5
+      ],
+      [
+       43.5,
+       43.78
+      ]
+     ]
+    },
+    {
+     "w": "million",
+     "start": 43.78,
+     "end": 44.52,
+     "conf": 1.0,
+     "syl": [
+      [
+       43.78,
+       44.04
+      ],
+      [
+       44.04,
+       44.52
+      ]
+     ]
+    },
+    {
+     "w": "people",
+     "start": 44.52,
+     "end": 45.62,
+     "conf": 1.0,
+     "syl": [
+      [
+       44.52,
+       45.1
+      ],
+      [
+       45.1,
+       45.62
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "i": 12,
+   "text": "Put that shadow in their head",
+   "start": 45.62,
+   "end": 51.578,
+   "words": [
+    {
+     "w": "Put",
+     "start": 45.62,
+     "end": 45.936,
+     "conf": 0.93
+    },
+    {
+     "w": "that",
+     "start": 46.16,
+     "end": 46.444,
+     "conf": 1.0
+    },
+    {
+     "w": "shadow",
+     "start": 46.444,
+     "end": 47.98,
+     "conf": 1.0,
+     "syl": [
+      [
+       46.444,
+       47.46
+      ],
+      [
+       47.46,
+       47.98
+      ]
+     ]
+    },
+    {
+     "w": "in",
+     "start": 47.98,
+     "end": 48.32,
+     "conf": 0.89
+    },
+    {
+     "w": "their",
+     "start": 48.32,
+     "end": 48.744,
+     "conf": 1.0
+    },
+    {
+     "w": "head",
+     "start": 48.744,
+     "end": 51.578,
+     "conf": 1.0
+    }
+   ]
+  },
+  {
+   "i": 13,
+   "text": "So smile and sing along",
+   "start": 51.578,
+   "end": 55.82,
+   "words": [
+    {
+     "w": "So",
+     "start": 51.578,
+     "end": 51.822,
+     "conf": 0.7
+    },
+    {
+     "w": "smile",
+     "start": 51.822,
+     "end": 52.6,
+     "conf": 0.97
+    },
+    {
+     "w": "and",
+     "start": 52.6,
+     "end": 52.695,
+     "conf": 0.9
+    },
+    {
+     "w": "sing",
+     "start": 52.695,
+     "end": 53.06,
+     "conf": 0.89
+    },
+    {
+     "w": "along",
+     "start": 53.06,
+     "end": 55.82,
+     "conf": 0.78,
+     "syl": [
+      [
+       53.06,
+       53.12
+      ],
+      [
+       53.12,
+       55.82
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "i": 14,
+   "text": "And don't you be afraid",
+   "start": 55.82,
+   "end": 57.968,
+   "words": [
+    {
+     "w": "And",
+     "start": 55.82,
+     "end": 56.003,
+     "conf": 0.97
+    },
+    {
+     "w": "don't",
+     "start": 56.003,
+     "end": 56.3,
+     "conf": 1.0
+    },
+    {
+     "w": "you",
+     "start": 56.3,
+     "end": 56.442,
+     "conf": 1.0
+    },
+    {
+     "w": "be",
+     "start": 56.52,
+     "end": 57.0,
+     "conf": 1.0
+    },
+    {
+     "w": "afraid",
+     "start": 57.0,
+     "end": 57.968,
+     "conf": 0.84,
+     "syl": [
+      [
+       57.0,
+       57.12
+      ],
+      [
+       57.12,
+       57.968
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "i": 15,
+   "text": "We've got till the end of the decade",
+   "start": 60.48,
+   "end": 65.756,
+   "words": [
+    {
+     "w": "We've",
+     "start": 60.48,
+     "end": 60.762,
+     "conf": 0.95
+    },
+    {
+     "w": "got",
+     "start": 60.762,
+     "end": 61.02,
+     "conf": 1.0
+    },
+    {
+     "w": "till",
+     "start": 61.02,
+     "end": 61.32,
+     "conf": 0.96
+    },
+    {
+     "w": "the",
+     "start": 61.32,
+     "end": 61.6,
+     "conf": 0.83
+    },
+    {
+     "w": "end",
+     "start": 61.6,
+     "end": 64.58,
+     "conf": 0.85
+    },
+    {
+     "w": "of",
+     "start": 64.58,
+     "end": 64.78,
+     "conf": 0.91
+    },
+    {
+     "w": "the",
+     "start": 64.78,
+     "end": 65.0,
+     "conf": 0.66
+    },
+    {
+     "w": "decade",
+     "start": 65.0,
+     "end": 65.756,
+     "conf": 1.0,
+     "syl": [
+      [
+       65.0,
+       65.26
+      ],
+      [
+       65.26,
+       65.756
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "i": 16,
+   "text": "By morning it was everywhere, and the other side said, \"Planned\"",
+   "start": 73.82,
+   "end": 78.292,
+   "words": [
+    {
+     "w": "By",
+     "start": 73.82,
+     "end": 74.36,
+     "conf": 1.0
+    },
+    {
+     "w": "morning",
+     "start": 74.36,
+     "end": 75.114,
+     "conf": 0.97,
+     "syl": [
+      [
+       74.36,
+       74.96
+      ],
+      [
+       74.96,
+       75.114
+      ]
+     ]
+    },
+    {
+     "w": "it",
+     "start": 75.114,
+     "end": 75.28,
+     "conf": 1.0
+    },
+    {
+     "w": "was",
+     "start": 75.28,
+     "end": 75.56,
+     "conf": 1.0
+    },
+    {
+     "w": "everywhere,",
+     "start": 75.56,
+     "end": 76.4,
+     "conf": 1.0,
+     "syl": [
+      [
+       75.56,
+       75.66
+      ],
+      [
+       75.66,
+       75.84
+      ],
+      [
+       75.84,
+       76.4
+      ]
+     ]
+    },
+    {
+     "w": "and",
+     "start": 76.4,
+     "end": 76.52,
+     "conf": 0.95
+    },
+    {
+     "w": "the",
+     "start": 76.52,
+     "end": 76.74,
+     "conf": 1.0
+    },
+    {
+     "w": "other",
+     "start": 76.74,
+     "end": 76.955,
+     "conf": 1.0,
+     "syl": [
+      [
+       76.74,
+       76.86
+      ],
+      [
+       76.86,
+       76.955
+      ]
+     ]
+    },
+    {
+     "w": "side",
+     "start": 76.955,
+     "end": 77.304,
+     "conf": 0.98
+    },
+    {
+     "w": "said,",
+     "start": 77.304,
+     "end": 77.599,
+     "conf": 1.0
+    },
+    {
+     "w": "\"Planned\"",
+     "start": 77.66,
+     "end": 78.292,
+     "conf": 1.0
+    }
+   ]
+  },
+  {
+   "i": 17,
+   "text": "He'd written it up with a friend, and a few friends lent a hand",
+   "start": 78.58,
+   "end": 82.363,
+   "words": [
+    {
+     "w": "He'd",
+     "start": 78.58,
+     "end": 78.761,
+     "conf": 1.0
+    },
+    {
+     "w": "written",
+     "start": 78.761,
+     "end": 79.26,
+     "conf": 0.99,
+     "syl": [
+      [
+       78.761,
+       78.96
+      ],
+      [
+       78.96,
+       79.26
+      ]
+     ]
+    },
+    {
+     "w": "it",
+     "start": 79.26,
+     "end": 79.48,
+     "conf": 0.99
+    },
+    {
+     "w": "up",
+     "start": 79.48,
+     "end": 79.559,
+     "conf": 0.92
+    },
+    {
+     "w": "with",
+     "start": 79.66,
+     "end": 79.92,
+     "conf": 1.0
+    },
+    {
+     "w": "a",
+     "start": 79.92,
+     "end": 80.018,
+     "conf": 0.99
+    },
+    {
+     "w": "friend,",
+     "start": 80.018,
+     "end": 80.46,
+     "conf": 1.0
+    },
+    {
+     "w": "and",
+     "start": 80.46,
+     "end": 80.6,
+     "conf": 1.0
+    },
+    {
+     "w": "a",
+     "start": 80.6,
+     "end": 80.7,
+     "conf": 0.99
+    },
+    {
+     "w": "few",
+     "start": 80.7,
+     "end": 80.961,
+     "conf": 1.0
+    },
+    {
+     "w": "friends",
+     "start": 80.961,
+     "end": 81.54,
+     "conf": 1.0
+    },
+    {
+     "w": "lent",
+     "start": 81.54,
+     "end": 81.76,
+     "conf": 0.93
+    },
+    {
+     "w": "a",
+     "start": 81.76,
+     "end": 81.859,
+     "conf": 0.99
+    },
+    {
+     "w": "hand",
+     "start": 81.859,
+     "end": 82.363,
+     "conf": 1.0
+    }
+   ]
+  },
+  {
+   "i": 18,
+   "text": "Four days later, the boss he'd left said, \"Let's all slow it down\"",
+   "start": 82.363,
+   "end": 86.62,
+   "words": [
+    {
+     "w": "Four",
+     "start": 82.363,
+     "end": 82.862,
+     "conf": 1.0
+    },
+    {
+     "w": "days",
+     "start": 82.862,
+     "end": 83.006,
+     "conf": 1.0
+    },
+    {
+     "w": "later,",
+     "start": 83.006,
+     "end": 83.4,
+     "conf": 1.0,
+     "syl": [
+      [
+       83.006,
+       83.26
+      ],
+      [
+       83.26,
+       83.4
+      ]
+     ]
+    },
+    {
+     "w": "the",
+     "start": 83.4,
+     "end": 83.58,
+     "conf": 1.0
+    },
+    {
+     "w": "boss",
+     "start": 83.58,
+     "end": 83.899,
+     "conf": 1.0
+    },
+    {
+     "w": "he'd",
+     "start": 83.899,
+     "end": 84.079,
+     "conf": 1.0
+    },
+    {
+     "w": "left",
+     "start": 84.079,
+     "end": 84.283,
+     "conf": 1.0
+    },
+    {
+     "w": "said,",
+     "start": 84.283,
+     "end": 84.613,
+     "conf": 1.0
+    },
+    {
+     "w": "\"Let's",
+     "start": 84.613,
+     "end": 85.017,
+     "conf": 1.0
+    },
+    {
+     "w": "all",
+     "start": 85.017,
+     "end": 85.261,
+     "conf": 1.0
+    },
+    {
+     "w": "slow",
+     "start": 85.261,
+     "end": 85.82,
+     "conf": 1.0
+    },
+    {
+     "w": "it",
+     "start": 85.82,
+     "end": 85.945,
+     "conf": 1.0
+    },
+    {
+     "w": "down\"",
+     "start": 86.049,
+     "end": 86.62,
+     "conf": 1.0
+    }
+   ]
+  },
+  {
+   "i": 19,
+   "text": "And the rivals who agree on nothing came and gathered round",
+   "start": 86.62,
+   "end": 91.02,
+   "words": [
+    {
+     "w": "And",
+     "start": 86.62,
+     "end": 86.78,
+     "conf": 0.99
+    },
+    {
+     "w": "the",
+     "start": 86.78,
+     "end": 87.08,
+     "conf": 0.88
+    },
+    {
+     "w": "rivals",
+     "start": 87.08,
+     "end": 87.84,
+     "conf": 1.0,
+     "syl": [
+      [
+       87.08,
+       87.54
+      ],
+      [
+       87.54,
+       87.84
+      ]
+     ]
+    },
+    {
+     "w": "who",
+     "start": 87.84,
+     "end": 88.0,
+     "conf": 1.0
+    },
+    {
+     "w": "agree",
+     "start": 88.0,
+     "end": 88.48,
+     "conf": 1.0,
+     "syl": [
+      [
+       88.0,
+       88.21
+      ],
+      [
+       88.21,
+       88.48
+      ]
+     ]
+    },
+    {
+     "w": "on",
+     "start": 88.48,
+     "end": 88.68,
+     "conf": 1.0
+    },
+    {
+     "w": "nothing",
+     "start": 88.68,
+     "end": 89.16,
+     "conf": 1.0,
+     "syl": [
+      [
+       88.68,
+       88.96
+      ],
+      [
+       88.96,
+       89.16
+      ]
+     ]
+    },
+    {
+     "w": "came",
+     "start": 89.16,
+     "end": 89.78,
+     "conf": 1.0
+    },
+    {
+     "w": "and",
+     "start": 89.78,
+     "end": 89.985,
+     "conf": 1.0
+    },
+    {
+     "w": "gathered",
+     "start": 89.985,
+     "end": 90.38,
+     "conf": 1.0,
+     "syl": [
+      [
+       89.985,
+       90.2
+      ],
+      [
+       90.2,
+       90.38
+      ]
+     ]
+    },
+    {
+     "w": "round",
+     "start": 90.38,
+     "end": 91.02,
+     "conf": 1.0
+    }
+   ]
+  },
+  {
+   "i": 20,
+   "text": "One side says the end is near",
+   "start": 91.02,
+   "end": 93.782,
+   "words": [
+    {
+     "w": "One",
+     "start": 91.02,
+     "end": 91.377,
+     "conf": 0.85
+    },
+    {
+     "w": "side",
+     "start": 91.377,
+     "end": 91.926,
+     "conf": 0.99
+    },
+    {
+     "w": "says",
+     "start": 91.926,
+     "end": 92.4,
+     "conf": 1.0
+    },
+    {
+     "w": "the",
+     "start": 92.4,
+     "end": 92.475,
+     "conf": 1.0
+    },
+    {
+     "w": "end",
+     "start": 92.475,
+     "end": 92.994,
+     "conf": 0.6
+    },
+    {
+     "w": "is",
+     "start": 92.994,
+     "end": 93.44,
+     "conf": 0.92
+    },
+    {
+     "w": "near",
+     "start": 93.44,
+     "end": 93.782,
+     "conf": 1.0
+    }
+   ]
+  },
+  {
+   "i": 21,
+   "text": "The other says it's all for show",
+   "start": 95.05,
+   "end": 98.117,
+   "words": [
+    {
+     "w": "The",
+     "start": 95.05,
+     "end": 95.333,
+     "conf": 1.0
+    },
+    {
+     "w": "other",
+     "start": 95.333,
+     "end": 95.578,
+     "conf": 1.0,
+     "syl": [
+      [
+       95.333,
+       95.48
+      ],
+      [
+       95.48,
+       95.578
+      ]
+     ]
+    },
+    {
+     "w": "says",
+     "start": 95.578,
+     "end": 96.36,
+     "conf": 1.0
+    },
+    {
+     "w": "it's",
+     "start": 96.36,
+     "end": 96.7,
+     "conf": 0.92
+    },
+    {
+     "w": "all",
+     "start": 96.7,
+     "end": 97.274,
+     "conf": 0.72
+    },
+    {
+     "w": "for",
+     "start": 97.274,
+     "end": 97.473,
+     "conf": 1.0
+    },
+    {
+     "w": "show",
+     "start": 97.473,
+     "end": 98.117,
+     "conf": 1.0
+    }
+   ]
+  },
+  {
+   "i": 22,
+   "text": "So I shut my eyes and smile right through the fear",
+   "start": 98.656,
+   "end": 102.507,
+   "words": [
+    {
+     "w": "So",
+     "start": 98.656,
+     "end": 99.08,
+     "conf": 1.0
+    },
+    {
+     "w": "I",
+     "start": 99.08,
+     "end": 99.18,
+     "conf": 0.92
+    },
+    {
+     "w": "shut",
+     "start": 99.18,
+     "end": 99.544,
+     "conf": 1.0
+    },
+    {
+     "w": "my",
+     "start": 99.68,
+     "end": 100.16,
+     "conf": 1.0
+    },
+    {
+     "w": "eyes",
+     "start": 100.16,
+     "end": 100.372,
+     "conf": 1.0
+    },
+    {
+     "w": "and",
+     "start": 100.372,
+     "end": 100.497,
+     "conf": 1.0
+    },
+    {
+     "w": "smile",
+     "start": 100.497,
+     "end": 101.06,
+     "conf": 1.0
+    },
+    {
+     "w": "right",
+     "start": 101.06,
+     "end": 101.3,
+     "conf": 1.0
+    },
+    {
+     "w": "through",
+     "start": 101.38,
+     "end": 101.66,
+     "conf": 1.0
+    },
+    {
+     "w": "the",
+     "start": 101.66,
+     "end": 101.759,
+     "conf": 1.0
+    },
+    {
+     "w": "fear",
+     "start": 101.759,
+     "end": 102.507,
+     "conf": 0.99
+    }
+   ]
+  },
+  {
+   "i": 23,
+   "text": "'Cause I don't know, I don't know",
+   "start": 103.5,
+   "end": 106.683,
+   "words": [
+    {
+     "w": "'Cause",
+     "start": 103.5,
+     "end": 103.789,
+     "conf": 0.92
+    },
+    {
+     "w": "I",
+     "start": 103.789,
+     "end": 103.98,
+     "conf": 0.99
+    },
+    {
+     "w": "don't",
+     "start": 103.98,
+     "end": 104.22,
+     "conf": 0.91
+    },
+    {
+     "w": "know,",
+     "start": 104.22,
+     "end": 104.672,
+     "conf": 0.82
+    },
+    {
+     "w": "I",
+     "start": 105.68,
+     "end": 105.88,
+     "conf": 0.9
+    },
+    {
+     "w": "don't",
+     "start": 105.88,
+     "end": 106.308,
+     "conf": 0.87
+    },
+    {
+     "w": "know",
+     "start": 106.38,
+     "end": 106.683,
+     "conf": 0.83
+    }
+   ]
+  },
+  {
+   "i": 24,
+   "text": "So I took hold of a string and I followed where it goes",
+   "start": 106.683,
+   "end": 110.738,
+   "words": [
+    {
+     "w": "So",
+     "start": 106.683,
+     "end": 106.992,
+     "conf": 1.0
+    },
+    {
+     "w": "I",
+     "start": 106.992,
+     "end": 107.18,
+     "conf": 0.92
+    },
+    {
+     "w": "took",
+     "start": 107.18,
+     "end": 107.45,
+     "conf": 1.0
+    },
+    {
+     "w": "hold",
+     "start": 107.45,
+     "end": 107.885,
+     "conf": 1.0
+    },
+    {
+     "w": "of",
+     "start": 107.885,
+     "end": 108.08,
+     "conf": 1.0
+    },
+    {
+     "w": "a",
+     "start": 108.08,
+     "end": 108.179,
+     "conf": 0.98
+    },
+    {
+     "w": "string",
+     "start": 108.179,
+     "end": 108.78,
+     "conf": 1.0
+    },
+    {
+     "w": "and",
+     "start": 108.78,
+     "end": 108.96,
+     "conf": 1.0
+    },
+    {
+     "w": "I",
+     "start": 108.96,
+     "end": 109.057,
+     "conf": 0.94
+    },
+    {
+     "w": "followed",
+     "start": 109.057,
+     "end": 109.66,
+     "conf": 1.0,
+     "syl": [
+      [
+       109.057,
+       109.44
+      ],
+      [
+       109.44,
+       109.66
+      ]
+     ]
+    },
+    {
+     "w": "where",
+     "start": 109.66,
+     "end": 109.98,
+     "conf": 1.0
+    },
+    {
+     "w": "it",
+     "start": 109.98,
+     "end": 110.12,
+     "conf": 0.94
+    },
+    {
+     "w": "goes",
+     "start": 110.12,
+     "end": 110.738,
+     "conf": 0.97
+    }
+   ]
+  },
+  {
+   "i": 25,
+   "text": "The checks that built the builders fund the voices in the front rows",
+   "start": 110.96,
+   "end": 115.14,
+   "words": [
+    {
+     "w": "The",
+     "start": 110.96,
+     "end": 111.083,
+     "conf": 1.0
+    },
+    {
+     "w": "checks",
+     "start": 111.083,
+     "end": 111.52,
+     "conf": 1.0
+    },
+    {
+     "w": "that",
+     "start": 111.52,
+     "end": 111.68,
+     "conf": 1.0
+    },
+    {
+     "w": "built",
+     "start": 111.68,
+     "end": 111.976,
+     "conf": 1.0
+    },
+    {
+     "w": "the",
+     "start": 112.06,
+     "end": 112.24,
+     "conf": 1.0
+    },
+    {
+     "w": "builders",
+     "start": 112.24,
+     "end": 112.739,
+     "conf": 1.0,
+     "syl": [
+      [
+       112.24,
+       112.62
+      ],
+      [
+       112.62,
+       112.739
+      ]
+     ]
+    },
+    {
+     "w": "fund",
+     "start": 112.739,
+     "end": 113.16,
+     "conf": 0.98
+    },
+    {
+     "w": "the",
+     "start": 113.16,
+     "end": 113.32,
+     "conf": 1.0
+    },
+    {
+     "w": "voices",
+     "start": 113.32,
+     "end": 113.92,
+     "conf": 1.0,
+     "syl": [
+      [
+       113.32,
+       113.766
+      ],
+      [
+       113.766,
+       113.92
+      ]
+     ]
+    },
+    {
+     "w": "in",
+     "start": 113.92,
+     "end": 114.02,
+     "conf": 1.0
+    },
+    {
+     "w": "the",
+     "start": 114.02,
+     "end": 114.116,
+     "conf": 1.0
+    },
+    {
+     "w": "front",
+     "start": 114.116,
+     "end": 114.58,
+     "conf": 1.0
+    },
+    {
+     "w": "rows",
+     "start": 114.58,
+     "end": 115.14,
+     "conf": 1.0
+    }
+   ]
+  },
+  {
+   "i": 26,
+   "text": "Now the referees wear badges, and the rivals all agree",
+   "start": 115.14,
+   "end": 118.9,
+   "words": [
+    {
+     "w": "Now",
+     "start": 115.14,
+     "end": 115.3,
+     "conf": 1.0
+    },
+    {
+     "w": "the",
+     "start": 115.3,
+     "end": 115.44,
+     "conf": 1.0
+    },
+    {
+     "w": "referees",
+     "start": 115.44,
+     "end": 116.16,
+     "conf": 1.0,
+     "syl": [
+      [
+       115.44,
+       115.72
+      ],
+      [
+       115.72,
+       115.9
+      ],
+      [
+       115.9,
+       116.16
+      ]
+     ]
+    },
+    {
+     "w": "wear",
+     "start": 116.16,
+     "end": 116.48,
+     "conf": 1.0
+    },
+    {
+     "w": "badges,",
+     "start": 116.48,
+     "end": 117.1,
+     "conf": 1.0,
+     "syl": [
+      [
+       116.48,
+       116.864
+      ],
+      [
+       116.864,
+       117.1
+      ]
+     ]
+    },
+    {
+     "w": "and",
+     "start": 117.1,
+     "end": 117.22,
+     "conf": 1.0
+    },
+    {
+     "w": "the",
+     "start": 117.22,
+     "end": 117.42,
+     "conf": 0.96
+    },
+    {
+     "w": "rivals",
+     "start": 117.42,
+     "end": 118.002,
+     "conf": 1.0,
+     "syl": [
+      [
+       117.42,
+       117.74
+      ],
+      [
+       117.74,
+       118.002
+      ]
+     ]
+    },
+    {
+     "w": "all",
+     "start": 118.002,
+     "end": 118.28,
+     "conf": 1.0
+    },
+    {
+     "w": "agree",
+     "start": 118.28,
+     "end": 118.9,
+     "conf": 1.0,
+     "syl": [
+      [
+       118.28,
+       118.38
+      ],
+      [
+       118.38,
+       118.9
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "i": 27,
+   "text": "On a door that closes quietly on anyone like me",
+   "start": 118.9,
+   "end": 122.636,
+   "words": [
+    {
+     "w": "On",
+     "start": 118.9,
+     "end": 119.06,
+     "conf": 1.0
+    },
+    {
+     "w": "a",
+     "start": 119.06,
+     "end": 119.189,
+     "conf": 0.98
+    },
+    {
+     "w": "door",
+     "start": 119.189,
+     "end": 119.5,
+     "conf": 1.0
+    },
+    {
+     "w": "that",
+     "start": 119.5,
+     "end": 119.66,
+     "conf": 1.0
+    },
+    {
+     "w": "closes",
+     "start": 119.66,
+     "end": 120.24,
+     "conf": 1.0,
+     "syl": [
+      [
+       119.66,
+       120.027
+      ],
+      [
+       120.027,
+       120.24
+      ]
+     ]
+    },
+    {
+     "w": "quietly",
+     "start": 120.24,
+     "end": 121.2,
+     "conf": 1.0,
+     "syl": [
+      [
+       120.24,
+       120.64
+      ],
+      [
+       120.64,
+       120.82
+      ],
+      [
+       120.82,
+       121.2
+      ]
+     ]
+    },
+    {
+     "w": "on",
+     "start": 121.2,
+     "end": 121.359,
+     "conf": 0.92
+    },
+    {
+     "w": "anyone",
+     "start": 121.359,
+     "end": 121.96,
+     "conf": 0.92,
+     "syl": [
+      [
+       121.359,
+       121.499
+      ],
+      [
+       121.499,
+       121.78
+      ],
+      [
+       121.78,
+       121.96
+      ]
+     ]
+    },
+    {
+     "w": "like",
+     "start": 121.96,
+     "end": 122.287,
+     "conf": 1.0
+    },
+    {
+     "w": "me",
+     "start": 122.38,
+     "end": 122.636,
+     "conf": 1.0
+    }
+   ]
+  },
+  {
+   "i": 28,
+   "text": "By the end of the decade",
+   "start": 123.92,
+   "end": 127.341,
+   "words": [
+    {
+     "w": "By",
+     "start": 123.92,
+     "end": 124.14,
+     "conf": 1.0
+    },
+    {
+     "w": "the",
+     "start": 124.14,
+     "end": 124.38,
+     "conf": 1.0
+    },
+    {
+     "w": "end",
+     "start": 124.38,
+     "end": 124.92,
+     "conf": 0.83
+    },
+    {
+     "w": "of",
+     "start": 124.92,
+     "end": 125.06,
+     "conf": 1.0
+    },
+    {
+     "w": "the",
+     "start": 125.06,
+     "end": 125.185,
+     "conf": 0.98
+    },
+    {
+     "w": "decade",
+     "start": 125.285,
+     "end": 127.341,
+     "conf": 1.0,
+     "syl": [
+      [
+       125.285,
+       125.72
+      ],
+      [
+       125.72,
+       127.341
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "i": 29,
+   "text": "The end of the decade",
+   "start": 126.4,
+   "end": 129.0,
+   "words": [
+    {
+     "w": "The",
+     "start": 126.4,
+     "end": 126.74,
+     "conf": 0.8
+    },
+    {
+     "w": "end",
+     "start": 126.74,
+     "end": 127.06,
+     "conf": 0.8
+    },
+    {
+     "w": "of",
+     "start": 127.06,
+     "end": 127.18,
+     "conf": 0.8
+    },
+    {
+     "w": "the",
+     "start": 127.18,
+     "end": 127.42,
+     "conf": 0.8
+    },
+    {
+     "w": "decade",
+     "start": 127.42,
+     "end": 129.0,
+     "conf": 0.8,
+     "syl": [
+      [
+       127.42,
+       127.66
+      ],
+      [
+       127.66,
+       129.0
+      ]
+     ]
+    }
+   ],
+   "backing": true
+  },
+  {
+   "i": 30,
+   "text": "That's what the warning said",
+   "start": 127.92,
+   "end": 129.975,
+   "words": [
+    {
+     "w": "That's",
+     "start": 127.92,
+     "end": 128.169,
+     "conf": 0.86
+    },
+    {
+     "w": "what",
+     "start": 128.169,
+     "end": 128.378,
+     "conf": 1.0
+    },
+    {
+     "w": "the",
+     "start": 128.48,
+     "end": 128.68,
+     "conf": 1.0
+    },
+    {
+     "w": "warning",
+     "start": 128.68,
+     "end": 129.406,
+     "conf": 0.85,
+     "syl": [
+      [
+       128.68,
+       129.2
+      ],
+      [
+       129.2,
+       129.406
+      ]
+     ]
+    },
+    {
+     "w": "said",
+     "start": 129.406,
+     "end": 129.975,
+     "conf": 0.84
+    }
+   ]
+  },
+  {
+   "i": 31,
+   "text": "A hundred million people",
+   "start": 132.234,
+   "end": 134.84,
+   "words": [
+    {
+     "w": "A",
+     "start": 132.234,
+     "end": 132.44,
+     "conf": 0.99
+    },
+    {
+     "w": "hundred",
+     "start": 132.44,
+     "end": 132.98,
+     "conf": 1.0,
+     "syl": [
+      [
+       132.44,
+       132.7
+      ],
+      [
+       132.7,
+       132.98
+      ]
+     ]
+    },
+    {
+     "w": "million",
+     "start": 132.98,
+     "end": 133.72,
+     "conf": 1.0,
+     "syl": [
+      [
+       132.98,
+       133.24
+      ],
+      [
+       133.24,
+       133.72
+      ]
+     ]
+    },
+    {
+     "w": "people",
+     "start": 133.72,
+     "end": 134.84,
+     "conf": 1.0,
+     "syl": [
+      [
+       133.72,
+       134.3
+      ],
+      [
+       134.3,
+       134.84
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "i": 32,
+   "text": "Moving just the way they're led",
+   "start": 134.84,
+   "end": 140.795,
+   "words": [
+    {
+     "w": "Moving",
+     "start": 134.84,
+     "end": 135.88,
+     "conf": 0.99,
+     "syl": [
+      [
+       134.84,
+       135.5
+      ],
+      [
+       135.5,
+       135.88
+      ]
+     ]
+    },
+    {
+     "w": "just",
+     "start": 135.88,
+     "end": 136.585,
+     "conf": 1.0
+    },
+    {
+     "w": "the",
+     "start": 136.64,
+     "end": 136.94,
+     "conf": 1.0
+    },
+    {
+     "w": "way",
+     "start": 136.94,
+     "end": 137.48,
+     "conf": 1.0
+    },
+    {
+     "w": "they're",
+     "start": 137.48,
+     "end": 138.02,
+     "conf": 1.0
+    },
+    {
+     "w": "led",
+     "start": 138.02,
+     "end": 140.795,
+     "conf": 0.91
+    }
+   ]
+  },
+  {
+   "i": 33,
+   "text": "So smile and sing along",
+   "start": 140.795,
+   "end": 145.0,
+   "words": [
+    {
+     "w": "So",
+     "start": 140.795,
+     "end": 140.99,
+     "conf": 0.79
+    },
+    {
+     "w": "smile",
+     "start": 140.99,
+     "end": 141.8,
+     "conf": 1.0
+    },
+    {
+     "w": "and",
+     "start": 141.8,
+     "end": 141.898,
+     "conf": 0.96
+    },
+    {
+     "w": "sing",
+     "start": 141.898,
+     "end": 142.26,
+     "conf": 1.0
+    },
+    {
+     "w": "along",
+     "start": 142.26,
+     "end": 145.0,
+     "conf": 0.88,
+     "syl": [
+      [
+       142.26,
+       142.32
+      ],
+      [
+       142.32,
+       145.0
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "i": 34,
+   "text": "The money's being made",
+   "start": 145.0,
+   "end": 147.021,
+   "words": [
+    {
+     "w": "The",
+     "start": 145.0,
+     "end": 145.2,
+     "conf": 0.82
+    },
+    {
+     "w": "money's",
+     "start": 145.2,
+     "end": 145.664,
+     "conf": 0.98,
+     "syl": [
+      [
+       145.2,
+       145.46
+      ],
+      [
+       145.46,
+       145.664
+      ]
+     ]
+    },
+    {
+     "w": "being",
+     "start": 145.72,
+     "end": 146.52,
+     "conf": 0.9,
+     "syl": [
+      [
+       145.72,
+       146.22
+      ],
+      [
+       146.22,
+       146.52
+      ]
+     ]
+    },
+    {
+     "w": "made",
+     "start": 146.52,
+     "end": 147.021,
+     "conf": 0.83
+    }
+   ]
+  },
+  {
+   "i": 35,
+   "text": "We've got till the end of the decade",
+   "start": 149.7,
+   "end": 154.943,
+   "words": [
+    {
+     "w": "We've",
+     "start": 149.7,
+     "end": 149.92,
+     "conf": 0.77
+    },
+    {
+     "w": "got",
+     "start": 149.92,
+     "end": 150.2,
+     "conf": 0.96
+    },
+    {
+     "w": "till",
+     "start": 150.2,
+     "end": 150.5,
+     "conf": 0.94
+    },
+    {
+     "w": "the",
+     "start": 150.5,
+     "end": 150.8,
+     "conf": 0.83
+    },
+    {
+     "w": "end",
+     "start": 150.8,
+     "end": 153.8,
+     "conf": 0.85
+    },
+    {
+     "w": "of",
+     "start": 153.8,
+     "end": 153.985,
+     "conf": 0.9
+    },
+    {
+     "w": "the",
+     "start": 154.02,
+     "end": 154.24,
+     "conf": 0.96
+    },
+    {
+     "w": "decade",
+     "start": 154.24,
+     "end": 154.943,
+     "conf": 1.0,
+     "syl": [
+      [
+       154.24,
+       154.48
+      ],
+      [
+       154.48,
+       154.943
+      ]
+     ]
+    }
+   ]
+  }
+ ],
+ "extras": [],
+ "notes": "Lead lines: align/align.py: CTC emissions of the Suno VOX stem from MMS_FA + wav2vec2 LV60K on the mono / left / right channels (fused), one global Viterbi forced alignment with a garbage token between lines, each multi-syllable word split into sung syllables (Word.syl), signal refinement of syllable starts (rest re-entry, spectral-flux onset, frication start) and word ends (legato -> next word, else voice stop), manual fixes from per-line QA plots (align/qa/). Backing lines: hand-set (lyrics_fix.json)."
+}

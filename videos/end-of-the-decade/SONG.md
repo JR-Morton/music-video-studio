@@ -38,11 +38,7 @@ a real sunrise with no strings.
 ## Suno style prompt (as used)
 
 ```
-end-credits indie pop, bouncy and sunny, 124 BPM, major key, cheerful deadpan female vocal, slightly robotic
-pitch-corrected, sweet and polite, eerily calm, clean acoustic guitar strums, plucky synth, music box, glockenspiel,
-handclaps, whistled hook, light drums, warm bass, catchy sing-along chorus, haunting ethereal bridge with breathy
-sincere vocal, floor toms and choir pad, then a key change into the final chorus
-```
+Indie folk ballad led by a music-box whistled hook, fingerpicked steel-string guitar with soft fret noise, restrained upright piano, warm upright bass, brush kick, rim clicks, muted cello counterlines, and smooth synth pads over a faint synth-pop pulse; close-miked spacious mix, tape saturation, short room reverb, subtle double-tracked harmonies; restrained 78 bpm sway; intimate, dry female lead.f```
 
 Exclude styles: `heavy distortion, screaming, rap, trap hi-hats, dark minor key`
 
